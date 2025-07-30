@@ -16,11 +16,10 @@ Bu depo, makine öğrenmesi ve veri analizi alanlarında yapılan bireysel proje
 |---------------------------|----------|
 | `1_knime_experiments/`    | KNIME platformunda oluşturulan iş akışları (.knwf dosyaları) |
 | `2_python_experiments/`   | Python ortamında temel veri işlemleri ve algoritma denemeleri |
-| `3_project_replication/`  | Gerçek bir analiz örneğinin yeniden uygulanması |
-| `4_etl_process/`          | Pandas → PostgreSQL aktarımı ve temel ETL süreci |
-| `5_data_visualization/`   | Seaborn ve Matplotlib ile veri görselleştirme |
-| `6_ml_projects/`          | Sınıflandırma, kümeleme, regresyon, anomali tespiti ve birliktelik kuralları gibi temel ML projeleri |
-| `7_summary_notes/`        | Algoritmalar, metrikler ve genel çıkarımlar hakkında özet notlar |
+| `3_etl_process/`          | Pandas → PostgreSQL aktarımı ve temel ETL süreci |
+| `4_data_visualization/`   | Seaborn ve Matplotlib ile veri görselleştirme |
+| `5_ml_projects/`          | Sınıflandırma, kümeleme, regresyon, anomali tespiti ve birliktelik kuralları gibi temel ML projeleri |
+| `6_summary_notes/`        | Algoritmalar, metrikler ve genel çıkarımlar hakkında özet notlar |
 
 ---
 
