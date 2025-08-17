@@ -1,0 +1,6 @@
+ETL Raporu
+----------------------
+Toplam satır (>=50): 27
+Ortalama: 49.40
+Medyan: 56.0
+Çıktı CSV: /opt/airflow/data/processed/filtered.csv
