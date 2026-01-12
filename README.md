@@ -1,27 +1,33 @@
-# 📊 Machine Learning Practice Projects
+# 🤖 Machine Learning Practice Projects
 
-## 🧠 Açıklama
+This repository is a structured collection of personal **Machine Learning** and **Data Science** projects. It documents a progressive journey from data preprocessing and ETL to advanced ML model implementation and visualization.
 
-#### 📌 Part 1: English Description  
-This repository presents a structured collection of personal machine learning and data analysis projects. It is designed to reflect a progressive approach — from experimenting with tools and methods to applying core ML concepts on real-world-like data and summarizing insights clearly.
+## 📂 Project Modules
 
-#### 📌 Part 2: Türkçe Açıklama  
-Bu depo, makine öğrenmesi ve veri analizi alanlarında yapılan bireysel projelerin yapılandırılmış bir koleksiyonudur. Amaç; araçları ve yöntemleri keşfetmekten başlayarak, temel algoritmaları gerçekçi veriler üzerinde uygulamaya ve elde edilen bilgileri özetlemeye kadar adım adım bir ilerleme sunmaktır.
+The repository is organized into sequential modules, covering different aspects of the data pipeline:
 
----
+* **📁 1_knime_experiments:**
+  * Workflow-based data analytics using **KNIME**.
+  * Preprocessing and initial model testing without extensive coding.
 
-## 🧱 Klasör Yapısı
+* **📁 2_python_experiments:**
+  * Core **Python** scripts for data manipulation.
+  * Experiments with **NumPy** and **Pandas**.
 
-| Klasör                    | Açıklama |
-|---------------------------|----------|
-| `1_knime_experiments/`    | KNIME platformunda oluşturulan iş akışları (.knwf dosyaları) |
-| `2_python_experiments/`   | Python ortamında temel veri işlemleri ve algoritma denemeleri |
-| `3_etl_process/`          | Pandas → PostgreSQL aktarımı ve temel ETL süreci |
-| `4_data_visualization/`   | Seaborn ve Matplotlib ile veri görselleştirme |
-| `5_ml_projects/`          | Sınıflandırma, kümeleme, regresyon, anomali tespiti ve birliktelik kuralları gibi temel ML projeleri |
-| `6_summary_notes/`        | Algoritmalar, metrikler ve genel çıkarımlar hakkında özet notlar |
+* **📁 3_etl_process/Database:**
+  * **ETL (Extract, Transform, Load)** pipelines.
+  * **SQL** integration and database management practices.
 
----
+* **📁 4_data_visualization:**
+  * Visual storytelling using **Matplotlib** and **Seaborn**.
+  * Exploratory Data Analysis (EDA) on various datasets.
+
+* **📁 5_ml_projects:**
+  * Applied Machine Learning models (Regression, Classification, Clustering).
+  * Implementation using **Scikit-Learn**.
+
+* **📁 6_summary_notes:**
+  * Theoretical notes, cheat sheets, and key takeaways from the projects.
 
 ## ✅ Uygulanan Temel Konular
 
@@ -40,3 +46,8 @@ Bu depo, makine öğrenmesi ve veri analizi alanlarında yapılan bireysel proje
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)  
 - KNIME Analytics Platform  
 - SQLite
+
+📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Copyright (c) 2025 YusufTufan
