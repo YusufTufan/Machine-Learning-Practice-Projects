@@ -29,23 +29,12 @@ The repository is organized into sequential modules, covering different aspects 
 * **📁 6_summary_notes:**
   * Theoretical notes, cheat sheets, and key takeaways from the projects.
 
-## ✅ Uygulanan Temel Konular
 
-- 🔍 Classification (Sınıflandırma)  
-- 📦 Clustering (Kümeleme)  
-- 📈 Regression (Regresyon)  
-- 🚨 Anomaly Detection (Anomali Tespiti)  
-- 🔗 Association Rule Mining (Birliktelik Kuralları)  
-- 🗄️ Pandas → SQL Entegrasyonu  
-- 📊 Veri Görselleştirme (Seaborn & Matplotlib)
+## 🛠️ Technologies & Tools
 
----
-
-## ⚙️ Kullanılan Araçlar
-
-- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)  
-- KNIME Analytics Platform  
-- SQLite
+* **Languages:** Python, SQL
+* **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+* **Tools:** KNIME Analytics Platform, Jupyter Notebooks
 
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
